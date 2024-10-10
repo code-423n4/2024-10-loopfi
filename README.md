@@ -22,7 +22,7 @@ _Note for C4 wardens: Anything included in this `Automated Findings / Publicly K
 
 This is a flow diagram of the Loop DeFi system:
 
-![Loop DeFi Diagram](assets/diagram.png)
+![Loop DeFi Diagram](https://github.com/code-423n4/2024-10-loopfi/tree/main/assets/diagram.png)
 
 
 
@@ -100,7 +100,7 @@ The protocol uses robust and trustworthy price feeds powered by Chainlink. These
   - [Report #3](https://notes.watchpug.com/p/190becc04cemgrXz) 
   - [Report #4](https://notes.watchpug.com/p/190c8fbf44ek5zZ4) 
   - [Report #5](https://notes.watchpug.com/p/190dd9d39acrEJAv) 
-  - [Code4rena audit: July 2024 - preliminary report](/LoopFi%20July%20Provisional%20Report.pdf) - see notes below
+  - [Code4rena audit: July 2024 - preliminary report](https://github.com/code-423n4/2024-10-loopfi/tree/main/LoopFi%20July%20Provisional%20Report.pdf) - see notes below
 - [**Documentation**](https://docs.loopfi.xyz/) 
 - [**Website**](https://www.loopfi.xyz/) 
 - [**X/Twitter**](https://twitter.com/loopfixyz) 
