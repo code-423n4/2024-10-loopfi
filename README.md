@@ -14,8 +14,6 @@
 
 The 4naly3er report can be found [here](https://github.com/code-423n4/2024-10-loopfi/blob/main/4naly3er-report.md).
 
-
-
 _Note for C4 wardens: Anything included in this `Automated Findings / Publicly Known Issues` section is considered a publicly known issue and is ineligible for awards._
 
 # Overview
@@ -24,7 +22,7 @@ _Note for C4 wardens: Anything included in this `Automated Findings / Publicly K
 
 This is a flow diagram of the Loop DeFi system:
 
-![Loop DeFi Diagram](assets/diagram.png)
+![Loop DeFi Diagram](https://github.com/code-423n4/2024-10-loopfi/tree/main/assets/diagram.png)
 
 
 
@@ -102,10 +100,15 @@ The protocol uses robust and trustworthy price feeds powered by Chainlink. These
   - [Report #3](https://notes.watchpug.com/p/190becc04cemgrXz) 
   - [Report #4](https://notes.watchpug.com/p/190c8fbf44ek5zZ4) 
   - [Report #5](https://notes.watchpug.com/p/190dd9d39acrEJAv) 
+  - [Code4rena audit: July 2024 - preliminary report](https://github.com/code-423n4/2024-10-loopfi/tree/main/LoopFi%20July%20Provisional%20Report.pdf) - see notes below
 - [**Documentation**](https://docs.loopfi.xyz/) 
 - [**Website**](https://www.loopfi.xyz/) 
 - [**X/Twitter**](https://twitter.com/loopfixyz) 
 - [**Discord**](https://discord.com/invite/mVqf2Q5Whg)
+
+#### Previous Code4rena audit
+
+Code4rena conducted a competitive audit on an earlier version of LoopFi's codebase between July 25 - August 15, 2024. Judging has not yet been finalized for that audit; however, a preliminary report is linked above. The preliminary audit report presents the findings currently under review in that audit. All findings are subject to change as judging proceeds. A final report will be published when judging is finalized. 
 
 ---
 
