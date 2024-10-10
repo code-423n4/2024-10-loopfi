@@ -22,7 +22,7 @@ _Note for C4 wardens: Anything included in this `Automated Findings / Publicly K
 
 This is a flow diagram of the Loop DeFi system:
 
-![Loop DeFi Diagram](https://github.com/code-423n4/2024-10-loopfi/tree/main/assets/diagram.png)
+![Loop DeFi Diagram](https://github.com/code-423n4/2024-10-loopfi/blob/main/assets/diagram.png?raw=true)
 
 
 
