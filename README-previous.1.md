@@ -8,6 +8,8 @@
 - Starts October 10, 2024 20:00 UTC
 - Ends October 17, 2024 20:00 UTC
 
+ℹ️ While there are no QA awards, QA reports are encouraged as a fallback in the event of no valid HMs.
+
 ## Automated Findings / Publicly Known Issues
 
 The 4naly3er report can be found [here](https://github.com/code-423n4/2024-10-loopfi/blob/main/4naly3er-report.md).
